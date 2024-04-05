@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guransh Singh</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Android Developer and Machine Learning enthusiast</h3>
 
 - 📫 How to reach me: **heygursingh@gmail.com**
 
