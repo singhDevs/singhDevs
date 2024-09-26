@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Android Developer & Machine Learning enthusiast<br><be>
+A passionate **Android Developer** & **Machine Learning** enthusiast<br><be>
 - 🔭 I’m currently working on: Chezz ♟️<be>
 - 🌱 I’m currently learning: Android Development & Backend Technologies<be>
 - 📫 How to reach me: **heygursingh@gmail.com**
