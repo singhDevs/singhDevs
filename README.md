@@ -3,7 +3,7 @@ A passionate **Android Developer** & **Machine Learning** enthusiast<br><be>
 - 🔭 I’m currently working on: Chezz ♟️<be>
 - 🌱 I’m currently learning: Android Development & Backend Technologies<be>
 - 📫 How to reach me: **heygursingh@gmail.com**
-- 📄 My Resume: [Resume](https://drive.google.com/file/d/1jBsBmJorluIt4GQTceeGedb4Y-WLycTH/view)
+- 📄 My Resume: [Resume](https://drive.google.com/file/d/1864CSk2XBRTkUgezTtFvA7fRZF5Fj6s2/view?usp=sharing)
 
 
 ## 🌐 Socials:
