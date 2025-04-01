@@ -1,5 +1,5 @@
 # 💫 About Me
-A passionate **Android Developer** & **Backend enthusiast** who loves tackling real-world problems!<br><be>**Hooked on CS** 👨‍💻
+A passionate **Android Developer** & **Backend enthusiast** who loves tackling real-world problems!<br><be>👨‍💻**Hooked on CS**
 - 🔭 I’m currently working on: Chezz♟️ ([GitHub](https://github.com/singhDevs/Chezz))<be>
 - 🌱 I’m currently learning: Android Development & Backend Technologies<be>
 - 📫 How to reach me: **guransh.workspace@gmail.com**
