@@ -1,7 +1,7 @@
 # 💫 About Me
 A passionate **Android Developer** & **Backend enthusiast** who loves tackling real-world problems!<br><be>👨‍💻**Hooked on CS**
 - 👨‍💻 Currently working on: [YouRead](https://github.com/singhDevs/YouRead)
-- 📦 Checkout the Chezz app♟️: [Chezz](https://github.com/singhDevs/Chezz)<be>
+- 📦 Checkout the YouRead CLI: [YouRead](https://github.com/singhDevs/YouRead)<be>
 - 🌱 I’m currently improving on: AI tools, Android Development & Backend Technologies<be>
 - 📫 How to reach me: **guransh.workspace@gmail.com**
 - 📄 My Resume: [Resume](https://drive.google.com/file/d/1I4VJu-tpjrPXLBDI6GxVS-LlKkzjBop5/view)
